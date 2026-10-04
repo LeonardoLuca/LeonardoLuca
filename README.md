@@ -6,11 +6,11 @@
 
 Construo produtos, sistemas e conhecimento com Inteligência Artificial.
 
-<a href="https://leoteixeira.tech"><img alt="Portfólio — acessar" src="https://img.shields.io/badge/PORTF%C3%93LIO-ACESSAR-1C1E24?style=for-the-badge&logo=googlechrome&logoColor=F0E8D8&labelColor=6C604A" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://leoteixeira.tech/trabalhos"><img alt="Trabalhos — explorar" src="https://img.shields.io/badge/TRABALHOS-EXPLORAR-1C1E24?style=for-the-badge&logo=readme&logoColor=E7ECE9&labelColor=466252" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/leonardo-teixeira-577475130/"><img alt="LinkedIn — conectar" src="https://img.shields.io/badge/LINKEDIN-CONECTAR-1C1E24?style=for-the-badge&logo=linkedin&logoColor=E8EEF4&labelColor=315D82" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:contato@leoteixeira.tech"><img alt="E-mail — escrever" src="https://img.shields.io/badge/EMAIL-ESCREVER-1C1E24?style=for-the-badge&labelColor=805B4D" /></a></div>
+<a href="https://leoteixeira.tech/?utm_source=github&utm_medium=referral&utm_campaign=portfolio"><img alt="Portfólio — acessar" src="https://img.shields.io/badge/PORTF%C3%93LIO-ACESSAR-1C1E24?style=for-the-badge&logo=googlechrome&logoColor=F0E8D8&labelColor=6C604A" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://leoteixeira.tech/trabalhos?utm_source=github&utm_medium=referral&utm_campaign=portfolio"><img alt="Trabalhos — explorar" src="https://img.shields.io/badge/TRABALHOS-EXPLORAR-1C1E24?style=for-the-badge&logo=readme&logoColor=E7ECE9&labelColor=466252" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/leonardo-teixeira-577475130/"><img alt="LinkedIn — conectar" src="https://img.shields.io/badge/LINKEDIN-CONECTAR-1C1E24?style=for-the-badge&logo=linkedin&logoColor=E8EEF4&labelColor=315D82" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:contato@leoteixeira.tech"><img alt="E-mail — escrever" src="https://img.shields.io/badge/EMAIL-ESCREVER-1C1E24?style=for-the-badge&labelColor=805B4D" /></a></div>
 
 ## Sobre mim
 
-Sou **engenheiro de IA, líder técnico e professor universitário**. Conecto arquitetura, experimentação e **visão de produto** para transformar tecnologias complexas em [soluções utilizáveis](https://leoteixeira.tech/trabalhos). Sou mestrando em **Engenharia de Software** na CESAR School, onde pesquiso **Engenharia de Prompt** e **avaliação e confiabilidade** de soluções com modelos de linguagem.
+Sou **engenheiro de IA, líder técnico e professor universitário**. Conecto arquitetura, experimentação e **visão de produto** para transformar tecnologias complexas em [soluções utilizáveis](https://leoteixeira.tech/trabalhos?utm_source=github&utm_medium=referral&utm_campaign=portfolio). Sou mestrando em **Engenharia de Software** na CESAR School, onde pesquiso **Engenharia de Prompt** e **avaliação e confiabilidade** de soluções com modelos de linguagem.
 
 ## O que faço
 
@@ -50,7 +50,7 @@ Sou **engenheiro de IA, líder técnico e professor universitário**. Conecto ar
 | [TalentScore&nbsp;AI](https://github.com/LeonardoLuca/TalentScore-AI) | Protótipo de análise de currículos com foco em feedback acionável. |
 | [InnPricer](https://github.com/LeonardoLuca/InnPricer) | Exploração de precificação de hotéis com Machine Learning e IA. |
 
-Alguns trabalhos aplicados têm contexto ou código privados. Os [cases no portfólio](https://leoteixeira.tech/trabalhos) mostram o problema, meu papel e a solução.
+Alguns trabalhos aplicados têm contexto ou código privados. Os [cases no portfólio](https://leoteixeira.tech/trabalhos?utm_source=github&utm_medium=referral&utm_campaign=portfolio) mostram o problema, meu papel e a solução.
 
 ## Vamos conversar
 
